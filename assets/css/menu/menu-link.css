@@ -5,3 +5,8 @@
     display: block;
     transition: all .5s ease-in-out;
 }
+
+.menu__link:hover{
+    color: black;
+    text-shadow: 0 0 20px red;
+}
