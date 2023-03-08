@@ -1,0 +1,12 @@
+.cabezera{
+    display: flex;
+    align-items: center;
+    background: #f9f9f9;
+    justify-content: space-between;
+    padding: 0 2rem;
+   
+}
+
+.activo{
+    color:#333333
+}

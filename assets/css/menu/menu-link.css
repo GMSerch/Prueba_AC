@@ -1,0 +1,7 @@
+.menu__link{
+    text-decoration: none;
+    color: #808080;
+    margin: 0 1rem;
+    display: block;
+    transition: all .5s ease-in-out;
+}
