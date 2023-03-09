@@ -17,3 +17,10 @@
         font-size: 4.5rem;
     }
 }
+
+@media screen and (max-width: 767px){
+    .banner__titulo{
+        top: 28%;
+        font-size: 2.8rem;
+    }
+}

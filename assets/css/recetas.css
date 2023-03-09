@@ -5,3 +5,9 @@
     padding: 3rem 0 0 3rem;
     justify-content: center;
 }
+
+@media screen and (max-width: 767px){
+    .recetas{
+        padding: 2rem 0 0 2rem;
+    }
+}
