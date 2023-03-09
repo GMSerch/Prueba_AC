@@ -8,3 +8,10 @@
     
 
 }
+
+@media screen and (min-width:768px) and (max-width:1088px){
+    .receta{
+        width: calc(25% - .5rem);
+        margin: 1rem;
+    }
+}
